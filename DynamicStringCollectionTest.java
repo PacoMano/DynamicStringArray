@@ -40,7 +40,7 @@ public class DynamicStringCollectionTest {
 
         System.out.println("\n-POSITIVE-");
 
-        System.out.println("\nCURRENT:");
+        System.out.println("\nCURRENT:"); // comment
         arrayTest.outputList();
 
         // #2.0
