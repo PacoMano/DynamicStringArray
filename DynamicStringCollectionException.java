@@ -4,5 +4,6 @@
  * @author Patryk Bierzynski
  */
 
-public class DynamicStringCollectionException extends Exception{
+public class DynamicStringCollectionException extends Exception{ //lol
+    Integer x = 1;
 }

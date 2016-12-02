@@ -14,7 +14,7 @@ public class DynamicStringArray implements DynamicStringCollectionMethods{
      */
     public DynamicStringArray() {
         this.array = new String[2];
-        this.length = 0;
+        this.length = 0; //added comment
     }
 
     /**
